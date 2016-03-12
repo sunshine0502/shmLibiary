@@ -12,7 +12,7 @@
 #import "SingleClass.h"
 @interface SecondViewController (){
     
-    SecondViewController *_seconddddddddVC;
+    SecondViewController *_secondVC;
 }
 
 @end
